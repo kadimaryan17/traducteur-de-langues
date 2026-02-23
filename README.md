@@ -20,5 +20,3 @@ bouton Ajouter :
 tk.Button(app, text="Ajouter",
           command=ajouter_mot,
           bg="yellow").pack(pady=5)
-Si tu veux, je peux t’expliquer ligne par ligne ce que fait ajouter_mot() 👌# traducteur-de-langues
-Ce projet permet de traduire les mots d'une langue à une autre
